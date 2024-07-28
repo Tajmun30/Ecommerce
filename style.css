@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+}
+.navbar-brand{
+    width: 6%;
+}
+.navbar{
+    background-color:orchid;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: darkblue;
+}
+.bgimg{
+    background-image: url('https://img.freepik.com/free-photo/group-stuffed-animals-are-table-with-picture-frame-that-says-word-it_1340-35297.jpg?t=st=1721974817~exp=1721978417~hmac=828a37c63895a9518d49ba8a0af01d7978a9f47d6f4e88265f8c38c63856573e&w=996');
+    width: 100vw;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+.hhead{
+
+    color: black;
+    margin-top: 2%;
+    font-size: 50px;
+}
+.hbtn{
+    width: 20%;
+    font-size: 20px;
+}
+/* about */
+.apara{
+    font-size: 25px;
+    color: #ff0000;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 100%;
+}
+/* Products */
+.card-title{
+    color: green;
+}
+.card-text{
+    color: red;
+}
+.space div{
+    border: 10px solid white;
+}
+
+#contact {
+    padding: 50px 0;
+}
+
+#contact h1 {
+    margin-bottom: 30px;
+}
+
